@@ -5,7 +5,7 @@ Web Starter Kit 是一套前端开发工具，它不仅有一套响应式的前�
 ## 特点
 | 特点           | 简介           |
 | ------------- |:-------------:|
-| 强大的模板      |  [Material Design Lite](http://getmdl.io/) 的一套强大的响应式模板，你可以选择使用默认模板，也可以选择[basic.html](https://github.com/google/web-starter-kit/blob/master/app/basic.html)从零开始 |
+| 强大的模板      |  [Material Design Lite](http://getmdl.io/) 的一套强大的响应式模板，你可以选择使用默认模板开始，也可以选择[basic.html](https://github.com/google/web-starter-kit/blob/master/app/basic.html)从零开始 |
 | 支持Sass      | 更方便的通过sass编写css，你可以自由使用变量、函数等。（运行 gulp serve 或者 gulp）      |
 | 代码优化 | 压缩合并js,css,html,图片来保持页面整洁（使用gulp来将优化版本产出到/dist目录）      |
 | 代码检测      | Javascript 代码检测是通过[ESlint](http://eslint.org/)——一个可拓展的JavaScript代码检测工具。Web Starter Kit 使用了 [eslint-config-google](https://github.com/google/eslint-config-google) 代码检测配置，根据Google Javascript 代码规范检测 |
