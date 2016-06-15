@@ -16,11 +16,11 @@ Web Starter Kit 是一套前端开发工具，它不仅有一套响应式的前�
 | 离线支持 | 感谢[Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) [pre-caching](https://github.com/google/web-starter-kit/blob/master/gulpfile.babel.js#L226) 。需要将dist放到https协议下才能使用离线支持。   使用[sw-precache](https://github.com/GoogleChrome/sw-precache/) 实现|
 | 页面速度分析    | 展示出你的页面在手机或桌面应用的性能指标。(运行 gulp pagespeed)    |
 ## 快速开始
-[下载](https://github.com/google/web-starter-kit/releases/latest)代码包或者clone这个github库，并且在app目录内开发。
+[下载](https://github.com/google/web-starter-kit/releases/latest)代码包或者clone这个githsub库，并且在app目录内开发。
 这里有两个初始文件可供你选择：
 * `index.html` - 默认开始文件，含有已经设计好的页面
 * `basic.html` - 没有页面内容，但是仍然含有移动端简洁而又实用的元信息
-一定要仔细看一下[安装文档](https://github.com/google/web-starter-kit/blob/master/docs/install.md)来确认你的开发环境是否支持WSK（Web Starter Kit），如果你的开发环境可以运行WSK，那么请查看[命令](https://github.com/google/web-starter-kit/blob/master/docs/commands.md)来开始实用Web Starter Kit吧！
+一定要仔细看一下[安装文档](https://github.com/google/web-starter-kit/blob/master/docs/install.md)来确认你的开发环境是否支持WSK（Web Starter Kit），如果你的开发环境可以运行WSK，那么请查看[命令](https://github.com/google/web-starter-kit/blob/master/docs/commands.md)来开始使用Web Starter Kit吧！
 
 ## 页面效率
 Web Starter Kit 全力给你创建一个高效的执行体验，我们默认页面的[Speed Index](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index)的测试[成绩](http://www.webpagetest.org/result/151201_VW_XYC/)是小于1100的（1000是最佳效果），重复加载的成绩小于550，这要感谢 Service Worker precaching。
