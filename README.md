@@ -1,6 +1,5 @@
 # web-starter-kit
 ## 概述
----
 Web Starter Kit 是一套前端开发工具，它不仅有一套响应式的前端模板，提供了夸设备和屏幕的工具，他还可以帮助你快速高效的架构前端项目，能够让前端开发者快速启动或加入开发项目。
 
 ## 特点
@@ -17,7 +16,6 @@ Web Starter Kit 是一套前端开发工具，它不仅有一套响应式的前�
 | 离线支持 | 感谢[Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) [pre-caching](https://github.com/google/web-starter-kit/blob/master/gulpfile.babel.js#L226) 。需要将dist放到https协议下才能使用离线支持。   使用[sw-precache](https://github.com/GoogleChrome/sw-precache/) 实现|
 | 页面速度分析    | 展示出你的页面在手机或桌面应用的性能指标。(运行 gulp pagespeed)    |
 ## 快速开始
-----
 [下载](https://github.com/google/web-starter-kit/releases/latest)代码包或者clone这个github库，并且在app目录内开发。
 这里有两个初始文件可供你选择：
 * `index.html` - 默认开始文件，含有已经设计好的页面
