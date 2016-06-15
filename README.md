@@ -47,6 +47,7 @@ Web Starter Kit 全力给你创建一个高效的执行体验，我们默认页�
 * [使用 Material Design Lite 的 Sass](https://github.com/google/web-starter-kit/blob/master/docs/mdl-sass.md) - 如何在WSK中使用Material Design Lite 的 Sass
 * [部署向导](https://github.com/google/web-starter-kit/blob/master/docs/deploy.md) - 选择 Firebase、Google App Engine 或者其他的服务
 * [Gulp使用方法](https://github.com/gulpjs/gulp/tree/master/docs/recipes) - Gulp的官方文档
+
 ##灵感
 Web Starter Kit 的灵感来自于[Mobile HTML5 Boilerplate](https://html5boilerplate.com/mobile/)和 Yeoman的 [generator-gulp-webapp](https://github.com/yeoman/generator-webapp)，这两个项目是促成Web Starter Kit 主要原因，我们的[FAQs](https://github.com/google/web-starter-kit/wiki/FAQ) 讲解了使用WSK通常会问的问题。
 
